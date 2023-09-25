@@ -1,10 +1,16 @@
-# project_name
+# Python & AWS
 
-> short_description
+This Git repository serves as a sandbox for experimenting with the AWS SDK for Python (Boto3). Inside this repository, you will find a collection of Python playbooks, scripts, and code snippets developed to explore and interact with various AWS services and functionalities.
 
-## heading_2
+## Overview of Scripts
 
-> text
+| **NR** |  **Name**   |    **Description**     |
+|--------|:-----------:|:----------------------:|
+| 1.     | createVM.py | Create an EC2 instance |
+| 2.     |             |                        |
+| 3.     |             |                        |
+| 4.     |             |                        |
+| 5.     |             |                        |
 
 ## License
 
