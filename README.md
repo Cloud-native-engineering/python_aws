@@ -4,13 +4,13 @@ This Git repository serves as a sandbox for experimenting with the AWS SDK for P
 
 ## Overview of Scripts
 
-| **NR** |  **Name**   |    **Description**     |
-|--------|:-----------:|:----------------------:|
-| 1.     | createVM.py | Create an EC2 instance |
-| 2.     |             |                        |
-| 3.     |             |                        |
-| 4.     |             |                        |
-| 5.     |             |                        |
+| **NR** |   **Name**   |                       **Description**                        |
+|--------|:------------:|:------------------------------------------------------------:|
+| 1.     | createVM.py  |                    Create an EC2 instance                    |
+| 2.     | whatsMyIp.py | Lamda function, that read the http header and access an api. |
+| 3.     |              |                                                              |
+| 4.     |              |                                                              |
+| 5.     |              |                                                              |
 
 ## License
 
